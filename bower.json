@@ -1,0 +1,18 @@
+{
+  "name": "gulp-ts",
+  "homepage": "https://github.com/mbrewerton/gulp-ts",
+  "authors": [
+    "MattBrewerton <matt.brewerton@clickdatabases.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
